@@ -1,2 +1,0 @@
-# Birthday
-Contains birthday template
